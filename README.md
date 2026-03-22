@@ -1,17 +1,21 @@
-# Hello, Friend! 👋
+# Hi, I'm Ayman! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer** who loves exploring new technologies and building innovative solutions. My main focus areas are **Software Development** and **Artificial Intelligence (AI)**.
+I'm a **Backend Developer transitioning into Cloud Engineering ☁️**, passionate about
+building practical systems and transforming applications from **local environments → cloud-based solutions** for real-world usage and accessibility.
 
+---
+
+## 🚀 About Me
 
 <table>
   <tr>
     <td>
       <ul>
-        <li>🎯 <b>Programming Languages:</b> Python, JavaScript, Dart, C++</li>
-        <li>📚 <b>Databases:</b> MongoDB, MySQL, Hive, Firebase</li>
-        <li>✨ <b>Frameworks & Libraries:</b> Flutter, Node.js, React, HTML/CSS</li>
-        <li>🪛 <b>Tools:</b> Figma, Git, Linux</li>
-        <li>🚀 <b>Other Skills:</b> AI/ML, Web Development</li>
+        <li>🎯 Focused on <b>Backend Development & Cloud Engineering</b> </li>
+        <li>☁️ Currently learning <b>AWS & Docker</b></li>
+        <li>🧠 Interested in designing systems that are <b>accessible anywhere</b></li>
+        <li>🔄 Working toward becoming a <b>Full-Stack Developer (Django + React)</b></li>
+        <li>⚡ I believe in building apps that solve <b>real problems, not just demos</b></li>
       </ul>
     </td>
     <td>
@@ -20,8 +24,74 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** who loves 
   </tr>
 </table>
 
-## 🚀 What I'm Working On
+---
 
-## 📫 How to Reach Me
+## 🧰 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamaymo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamaymo) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamaymo) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanqadasi89@gmail.com)
+- 💻 **Languages:** Python, JavaScript, Dart
+- 🗄️ **Databases:** MySQL, Firebase
+- ⚙️ **Frameworks:** Django, Flutter, React (learning)
+- 🛠️ **Tools:** Git, Linux, Figma, GitHub
+
+---
+
+## 📦 Projects
+
+### 🔹 Adati – Tools & Equipment Rental Platform
+
+A peer-to-peer rental platform based on the **Sharing Economy**, connecting tool owners with renters through a smart and secure system.
+**Tech:** Django, MySQL, Flutter
+🔗 https://github.com/iamaymo/adati_mobile_app
+
+---
+
+### 🔹 Grocery Shop App
+
+A UI-based mobile application simulating an online grocery store experience.
+**Tech:** Flutter
+🔗 https://github.com/iamaymo/grocery_shop
+
+---
+
+### 🔹 Cars Shop Website
+
+A simple front-end project showcasing a car marketplace layout.
+**Tech:** HTML, CSS
+🔗 https://github.com/iamaymo/Cars-Shop
+
+---
+
+### 🔹 Lemo Landing Page
+
+A clean landing page design focused on layout and responsiveness.
+**Tech:** HTML, CSS
+🔗 https://github.com/iamaymo/Leom-Page
+
+---
+
+## 🚧 What I'm Working On
+
+- 🧠 Building a **Task Management App with Pomodoro Timer**
+- ☁️ Learning how to **deploy Django apps to the cloud**
+- 🐳 Exploring **Docker for containerizing applications**
+- 🌍 Goal: Move my projects from **local → live cloud environments**
+
+---
+
+## 📈 Current Goals
+
+- Learn **AWS fundamentals (EC2, S3, deployment)**
+- Deploy my first **full Django app to the cloud**
+- Understand **CI/CD basics using GitHub**
+- Improve backend architecture skills
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/iamaymo)
+[Instagram](https://www.instagram.com/iamaymo)
+[Telegram](https://t.me/iamaymo)
+📧 Email: [aymanqadasi89@gmail.com](mailto:aymanqadasi89@gmail.com)
+
+---
