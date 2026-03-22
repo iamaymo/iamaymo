@@ -89,9 +89,5 @@ A clean landing page design focused on layout and responsiveness.
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/iamaymo)
-[Instagram](https://www.instagram.com/iamaymo)
-[Telegram](https://t.me/iamaymo)
-📧 Email: [aymanqadasi89@gmail.com](mailto:aymanqadasi89@gmail.com)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamaymo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamaymo) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamaymo) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanqadasi89@gmail.com)
